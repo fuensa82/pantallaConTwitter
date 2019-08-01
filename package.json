@@ -1,0 +1,26 @@
+{
+  "name": "pantallacontwitter",
+  "version": "1.0.0",
+  "description": "Acceso a Twitter desde las pantallas",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "twit": "^2.2.11",
+    "twitter": "^1.7.1",
+    "twitter-js-client": "0.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuensa82/pantallaConTwitter.git"
+  },
+  "author": "Victor Palomo Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuensa82/pantallaConTwitter/issues"
+  },
+  "homepage": "https://github.com/fuensa82/pantallaConTwitter#readme"
+}
